@@ -11,6 +11,7 @@ namespace WindowsFormsGITTEST
 {
     public partial class Form1 : Form
     {
+        string a = 1;
         public Form1()
         {
             InitializeComponent();
