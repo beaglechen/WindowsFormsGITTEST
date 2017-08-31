@@ -12,7 +12,7 @@ namespace WindowsFormsGITTEST
     public partial class Form1 : Form
     {
         string a = "1111";
-        string b = "55";
+        string b = "5555555";
         string c = "6666666";
         public Form1()
         {
