@@ -13,7 +13,7 @@ namespace WindowsFormsGITTEST
     {
         string a = "1111";
         string b = "55";
-        string c = "666";
+        string c = "6666666";
         public Form1()
         {
             InitializeComponent();
